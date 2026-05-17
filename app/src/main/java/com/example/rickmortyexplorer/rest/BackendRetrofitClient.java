@@ -5,7 +5,7 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class BackendRetrofitClient {
-    private static final String BASE_URL = "http://10.0.2.2:5000/";
+    private static final String BASE_URL = "https://rickmorty-backend-7o9q.onrender.com/";
     private static Retrofit retrofit;
 
     private BackendRetrofitClient() {
