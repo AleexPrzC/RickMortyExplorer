@@ -1,0 +1,6 @@
+services:
+  rickmorty-backend:
+    build: .
+    container_name: rickmorty-backend
+    ports:
+      - "5000:5000"

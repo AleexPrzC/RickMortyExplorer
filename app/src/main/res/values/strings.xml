@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RickMorty Explorer</string>
+    <string name="loading">Cargando...</string>
+    <string name="retry">Reintentar</string>
+    <string name="unknown">Desconocido</string>
+    <string name="email">Email</string>
+    <string name="password">Contrasena</string>
+    <string name="login">Iniciar sesion</string>
+    <string name="register">Crear cuenta</string>
+    <string name="logout">Cerrar sesion</string>
+    <string name="add_favorite">Anadir a favoritos</string>
+    <string name="remove_favorite">Quitar de favoritos</string>
+    <string name="my_favorites">Mis favoritos</string>
+    <string name="new_tip">Nuevo consejo</string>
+</resources>

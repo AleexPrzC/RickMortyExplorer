@@ -1,0 +1,27 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Firebase local config
+app/google-services.json
+
+# Python
+backend/.venv/
+backend/venv/
+backend/env/
+backend/__pycache__/
+backend/.pytest_cache/
+*.pyc
+
+# Generated checks
+render_check/
+
+# OS files
+.DS_Store
+Thumbs.db
